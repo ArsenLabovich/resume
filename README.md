@@ -1,4 +1,4 @@
-# [Your Name]
+# Arsen Labovich
 
 ## 📫 Contact Information
 - **Email:** [arsen.labovich@gmail.com](mailto:arsen.labovich@gmail.com)  
@@ -79,39 +79,41 @@
 - **Years Attended:** 2023 – 2026  
 - **Achievements:** Average grade 1.48 (1.0 is highest, 5.0 is lowest)
 
-### [Additional Courses or Bootcamps (if any)]
-- [Course Name], [Institution Name]  
-- [e.g., Completed in 2023]
-
----
-
 ## 💼 Work Experience
-### [Job Title], [Company Name]
-- **Location:** [City, Country]  
-- **Duration:** [e.g., June 2022 – Present]  
-- **Responsibilities:**
-  - [e.g., Developed features for a web application using React and Node.js.]
-  - [e.g., Collaborated with a team to implement RESTful APIs.]
 
-### [Internship Title], [Company Name]
-- **Location:** [City, Country]  
-- **Duration:** [e.g., Jan 2022 – May 2022]  
-- **Responsibilities:**
-  - [e.g., Assisted in developing front-end components using HTML, CSS, and JavaScript.]
+### Mathematics Tutor (Self-employed, Part-time)
+*September 2023 - Present*
 
----
+- Provided **individual tutoring in mathematics**, helping students improve their understanding of the subject and preparing them for exams.  
+- Developed clear communication and teaching skills, tailored to each student's learning style and needs.  
+- Enhanced my ability to explain complex topics in simple terms, which is valuable when explaining technical concepts in development.
 
-## 🏆 Certifications
-- **[Certificate Name]**, [Organization Name] — [Date]  
-  *(e.g., AWS Certified Cloud Practitioner, AWS — June 2023)*
+### Student Coordinator for International Applicants (Part-time)
+*June 2024 - Present*
 
-- **[Certificate Name]**, [Organization Name] — [Date]  
+- Assisted **foreign applicants** in the academic admission process, ensuring a smooth transition for students from abroad.  
+- Acted as a **liaison** between students and academic institutions, handling communication and resolving any issues that arose.  
+- Represented the **interests of international students** in Slovakia, ensuring their needs were met and advocating for them in academic and administrative matters.  
+- Coordinated the submission of important documents, ensuring compliance with local regulations and university requirements.  
+- Gained valuable experience in **project management**, **client relationship management**, and **cultural sensitivity**, all of which contribute to my ability to manage complex tasks and work effectively with diverse teams.
 
----
 
+
+## 🏆 Achievements
+
+- Solved **450+ problems on LeetCode**, earning **6 badges** for outstanding performance in algorithms and data structures.
+  Achieved a **global rank of ~95,000** among LeetCode users based on solved problems.
+   Check out my [LeetCode Profile](https://leetcode.com/u/ArsenLabovich/) for more details.
+
+  
+- Successfully completed **10+ small to medium-sized projects** in the educational domain, providing custom software solutions tailored to the specific needs of each client.  
+  Gained valuable experience in **client interaction**, understanding their requirements, and delivering solutions that met or exceeded expectations.  
+  Gained proficiency in managing **client deadlines**, addressing feedback, and iterating on projects to achieve the best possible outcome for the client.  
+
+  
 ## 🌍 Languages
 - **Russian**: Native
 - **English**: Intermediate (B1-B2)
 - **Czech**: Intermediate (B2, Certificate)
-- **Slovak**: Intermediate (B2.
+- **Slovak**: Intermediate (B2).
 
