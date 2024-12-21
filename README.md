@@ -16,7 +16,7 @@ Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am
 ## 🛠 Skills
 
 ### Core Programming Language:
-- **Java**: Advanced proficiency. Experience with object-oriented programming, building REST APIs, and using frameworks like Spring Boot and Hibernate.
+- **Java**: Advanced proficiency. Experience with object-oriented programming, building REST APIs, and using frameworks like Spring Boot, JavaFX and other.
 
 ### Additional Programming Languages:
 - **Python**: Leveraged for fast prototyping, algorithm validation, and task automation.
