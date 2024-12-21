@@ -8,6 +8,11 @@
 - **Phone:** +421 950 707 153
 ---
 
+## 💡 About Me
+Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am passionate about programming, solving challenging problems, and continuously learning new technologies. I’ve already built a strong foundation in Java, Python, and other languages through academic projects, self-study, and practical experience. I’m eager to contribute my skills and enthusiasm to a team where I can grow both personally and professionally.
+
+---
+
 ## 🛠 Skills
 
 ### Core Programming Language:
@@ -78,6 +83,8 @@
 - **Degree:** Bachelor’s in Appliend Informatics (in progress, now i'm student of 2nd year) 
 - **Years Attended:** 2023 – 2026  
 - **Achievements:** Average grade 1.48 (1.0 is highest, 5.0 is lowest)
+  
+---
 
 ## 💼 Work Experience
 
@@ -97,7 +104,7 @@
 - Coordinated the submission of important documents, ensuring compliance with local regulations and university requirements.  
 - Gained valuable experience in **project management**, **client relationship management**, and **cultural sensitivity**, all of which contribute to my ability to manage complex tasks and work effectively with diverse teams.
 
-
+---
 
 ## 🏆 Achievements
 
@@ -110,6 +117,7 @@
   Gained valuable experience in **client interaction**, understanding their requirements, and delivering solutions that met or exceeded expectations.  
   Gained proficiency in managing **client deadlines**, addressing feedback, and iterating on projects to achieve the best possible outcome for the client.  
 
+---
   
 ## 🌍 Languages
 - **Russian**: Native
