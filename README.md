@@ -68,18 +68,57 @@ Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am
 ---
 
 ## 📂 Projects
-### [Project Name 1](https://github.com/your-repository)
-**Description:** Briefly explain the project, the problem it solves, and your role.  
-**Technologies Used:** [e.g., React, Node.js, MongoDB]
+## 🔒 Repositories can be private  due to privacy policies
 
-### [Project Name 2](https://github.com/your-repository)
-**Description:** Briefly explain the project, the problem it solves, and your role.  
-**Technologies Used:** [e.g., Python, Flask, SQLite]
+### 📂Library-Application ([https://github.com/ArsenLabovich/Library-Application](https://github.com/ArsenLabovich/Library-Application))</br>
+
+  **Description:** 
+  Application Provides Server part and Client Application with UI. Server is implemented with SpringBoot and is responsible for responding to requests to RESTful API from Client Application.
+  Client part provides Application with UI, where you can login as user/admin and interact with library. Browse library and borrow books. Admin can manage library,books and users.
+  Client part uses JavaFX to build UI.
+
+  **Technologies Used:**  Java, Spring, SQLite, JavaFX
+</br>
+</br>
+### 📂Binance Commision Counter ([https://github.com/ArsenLabovich/Binance-Commision-Counter](https://github.com/ArsenLabovich/Binance-Commision-Counter))</br>
+  *(public)*</br>
+
+  **Description:** This is an Application which can calculate all commisions, that were paid from your account for any USDT,USDC,FUSD trading pair using Binance API Key.
+  Interacts with Binance API using JavaFX + SpringBoot
+  
+  **Technologies Used:** Java, SpringBoot, JavaFX, Binance API.
+</br>
+</br>
+### 📂Monopoly Ncurses([https://github.com/ArsenLabovich/Monopoly-Ncurses-C-project](https://github.com/ArsenLabovich/Monopoly-Ncurses-C-project))</br>
+   *(public)*</br>
+
+  **Description:** Project implements Monopoly Game with CLI interface. Uses C language and ncurses library for UI.
+  
+  **Technologies Used:** C, Ncurses
+</br>
+</br>
+### 📂 Taco Cloud([https://github.com/ArsenLabovich/taco-cloud-study-project](https://github.com/ArsenLabovich/taco-cloud-study-project))</br>
+
+  **Description:** Study project, was written with book "Spring in Action"
+  
+  **Technologies Used:** Java, SpringBoot, SpringSecurity JWT, Oauth2 ant etc.
+</br>
+</br>
+### 📂 Group of projects (Small games).</br>
+  https://github.com/ArsenLabovich/ProjectLudoProgramming1</br>
+  https://github.com/ArsenLabovich/ProjectTeleportsProgramming1</br>
+  https://github.com/ArsenLabovich/LudoGameProject *(public)*</br></br>
+
+  **Description:** All projects are small and shows only Basic Code. (projects for University)
+  
+  **Technologies Used:** Python
+
+  
 
 ---
 
 ## 🎓 Education
-### [Slovak University of Technology]
+### Slovak University of Technology
 - **Degree:** Bachelor’s in Appliend Informatics (in progress, now i'm student of 2nd year) 
 - **Years Attended:** 2023 – 2026  
 - **Achievements:** Average grade 1.48 (1.0 is highest, 5.0 is lowest)
@@ -88,23 +127,37 @@ Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am
 
 ## 💼 Work Experience
 
+
+### Freelance Programmer (Self-Employed, Part-time)
+*September 2023 – Present*
+
+  - Completed custom programming tasks and small-medium scale projects.
+  - Worked with languages such as Python, Java, C, ensuring solutions met client specifications and deadlines.
+  - Communicated effectively with clients to understand their requirements and delivered clear, maintainable code.
+  - Gained experience in managing multiple projects simultaneously and adapting to a variety of technical challenges.
+  - Improved problem-solving skills and the ability to provide practical, efficient solutions.
+    
+
 ### Mathematics Tutor (Self-employed, Part-time)
 *September 2023 - Present*
 
-- Provided **individual tutoring in mathematics**, helping students improve their understanding of the subject and preparing them for exams.  
-- Developed clear communication and teaching skills, tailored to each student's learning style and needs.  
-- Enhanced my ability to explain complex topics in simple terms, which is valuable when explaining technical concepts in development.
+  - Provided **individual tutoring in mathematics**, helping students improve their understanding of the subject and preparing them for exams.  
+  - Developed clear communication and teaching skills, tailored to each student's learning style and needs.  
+  - Enhanced my ability to explain complex topics in simple terms, which is valuable when explaining technical concepts in development.
+    
 
 ### Student Coordinator for International Applicants (Part-time)
 *June 2024 - Present*
 
-- Assisted **foreign applicants** in the academic admission process, ensuring a smooth transition for students from abroad.  
-- Acted as a **liaison** between students and academic institutions, handling communication and resolving any issues that arose.  
-- Represented the **interests of international students** in Slovakia, ensuring their needs were met and advocating for them in academic and administrative matters.  
-- Coordinated the submission of important documents, ensuring compliance with local regulations and university requirements.  
-- Gained valuable experience in **project management**, **client relationship management**, and **cultural sensitivity**, all of which contribute to my ability to manage complex tasks and work effectively with diverse teams.
+  - Assisted **foreign applicants** in the academic admission process, ensuring a smooth transition for students from abroad.  
+  - Acted as a **liaison** between students and academic institutions, handling communication and resolving any issues that arose.  
+  - Represented the **interests of international students** in Slovakia, ensuring their needs were met and advocating for them in academic and administrative matters.  
+  - Coordinated the submission of important documents, ensuring compliance with local regulations and university requirements.  
+  - Gained valuable experience in **project management**, **client relationship management**, and **cultural sensitivity**, all of which contribute to my ability to manage complex tasks and work effectively with diverse teams.
+    
 
 ---
+
 
 ## 🏆 Achievements
 
