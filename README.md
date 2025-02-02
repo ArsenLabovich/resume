@@ -9,7 +9,7 @@
 ---
 
 ## 💡 About Me
-Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am passionate about programming, solving challenging problems, and continuously learning new technologies. I’ve already built a strong foundation in Java, Python, and other languages through academic projects, self-study, and practical experience. I’m eager to contribute my skills and enthusiasm to a team where I can grow both personally and professionally.
+I am an energetic and motivated student at the Slovak University of Technology with a passion for Java programming. I have already satisfied 11 clients by providing them with custom solutions tailored to their specific needs. Eager to grow as a Software Developer, I am dedicated to learning and tackling challenges to create innovative solutions. I’m excited to continue developing my skills and pursue opportunities in the field of software development.
 
 ---
 
@@ -62,6 +62,7 @@ Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am
 - **JSON & XML**: Worked with data formats for API communication and configuration.
 - **RESTful APIs**: Designed and implemented RESTful services for various applications.
 - **Algorithms & Data Structures**: Understanding of core algorithms (sorting, searching) and data structures (linked lists, trees, hashmaps) for optimized problem-solving.
+- **Different Front end technologies**: HTML, CSS, JavaScript, 
 
 
 
@@ -121,7 +122,7 @@ Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am
 ### Slovak University of Technology
 - **Degree:** Bachelor’s in Appliend Informatics (in progress, now i'm student of 2nd year) 
 - **Years Attended:** 2023 – 2026  
-- **Achievements:** Average grade 1.48 (1.0 is highest, 5.0 is lowest)
+- **Achievements:** Average grade 1.46 (1.0 is highest, 5.0 is lowest)
   
 ---
 
@@ -138,10 +139,10 @@ Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am
   - Improved problem-solving skills and the ability to provide practical, efficient solutions.
     
 
-### Mathematics Tutor (Self-employed, Part-time)
+### Programming and Mathematics Tutor (Self-employed, Part-time)
 *September 2023 - Present*
 
-  - Provided **individual tutoring in mathematics**, helping students improve their understanding of the subject and preparing them for exams.  
+  - Provided **individual tutoring in programming and mathematics**, helping students improve their understanding of the subject and preparing them for exams.  
   - Developed clear communication and teaching skills, tailored to each student's learning style and needs.  
   - Enhanced my ability to explain complex topics in simple terms, which is valuable when explaining technical concepts in development.
     
@@ -161,7 +162,7 @@ Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am
 
 ## 🏆 Achievements
 
-- Solved **450+ problems on LeetCode**, earning **6 badges** for outstanding performance in algorithms and data structures.
+- Solved **500+ problems on LeetCode**, earning **6 badges** for outstanding performance in algorithms and data structures.
   Achieved a **global rank of ~95,000** among LeetCode users based on solved problems.
    Check out my [LeetCode Profile](https://leetcode.com/u/ArsenLabovich/) for more details.
 
@@ -173,8 +174,9 @@ Hi! My name is Arsen, and I’m an 18-year-old aspiring software developer. I am
 ---
   
 ## 🌍 Languages
+- **Belorussian**: Native
 - **Russian**: Native
-- **English**: Intermediate (B1-B2)
+- **English**: Intermediate (B2)
 - **Czech**: Intermediate (B2, Certificate)
 - **Slovak**: Intermediate (B2).
 
