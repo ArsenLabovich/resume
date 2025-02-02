@@ -2,7 +2,7 @@
 
 ## 📫 Contact Information
 - **Email:** [arsen.labovich@gmail.com](mailto:arsen.labovich@gmail.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/arsen-labovich-bb7a83328/](https://www.linkedin.com/in/arsen-labovich-bb7a83328/)  
+- **LinkedIn:** [https://www.linkedin.com/in/arsen-labovich-bb7a83328/](https://www.linkedin.com/in/arsen-labovich/)    (temporarily blocked for reasons unknown to me.)
 - **GitHub:** [https://github.com/ArsenLabovich](https://github.com/ArsenLabovich)  
 - **LeetCode:** [https://leetcode.com/u/ArsenLabovich/](https://leetcode.com/u/ArsenLabovich/)
 - **Phone:** +421 950 707 153
