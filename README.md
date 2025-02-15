@@ -114,6 +114,22 @@ I am an energetic and motivated student at the Slovak University of Technology w
   
   **Technologies Used:** Python
 
+### 📂 Real-Time Chat ([https://github.com/ArsenLabovich/Real-Time-Messanger](https://github.com/ArsenLabovich/Real-Time-Messanger))</br>
+
+  **Description:** A real-time chat application with user authentication, messaging, public and private chats, and notifications.
+  
+  **Technologies Used:** Java, Spring Boot, WebSocket, HTML, CSS, JavaScript, ActiveMQ, RESTful API.
+</br>
+</br>
+
+### 📂 Web-Quiz Engine ([https://github.com/ArsenLabovich/Web-Quiz-Engine](https://github.com/ArsenLabovich/Web-Quiz-Engine))</br>
+
+  **Description:** A web-based quiz engine with multiple-choice questions, user progress tracking, and score management.
+  
+  **Technologies Used:** Java, Spring Boot,Spring Data JPA, H2 Database, Spring Security, RESTful API.
+</br>
+</br>
+
   
 
 ---
@@ -170,6 +186,10 @@ I am an energetic and motivated student at the Slovak University of Technology w
 - Successfully completed **10+ small to medium-sized projects** in the educational domain, providing custom software solutions tailored to the specific needs of each client.  
   Gained valuable experience in **client interaction**, understanding their requirements, and delivering solutions that met or exceeded expectations.  
   Gained proficiency in managing **client deadlines**, addressing feedback, and iterating on projects to achieve the best possible outcome for the client.  
+
+- Java Full Stack Developer Certificate from HyperSkill by JetBrains.
+-  [Certificate](https://hyperskill.org/certificates/5fb13c3d-c36f-4792-8b33-5e62b7c6192e.pdf)
+
 
 ---
   
