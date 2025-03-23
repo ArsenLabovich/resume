@@ -9,7 +9,7 @@
 ---
 
 ## 💡 About Me
-I am an energetic and motivated student at the Slovak University of Technology with a passion for Java programming. I have already satisfied 11 clients by providing them with custom solutions tailored to their specific needs. Eager to grow as a Software Developer, I am dedicated to learning and tackling challenges to create innovative solutions. I’m excited to continue developing my skills and pursue opportunities in the field of software development.
+I am an experienced Junior Developer with about  1 year of experience, specializing in web and desktop applications using Java, Spring Boot, JavaFX, and various other technologies. I have worked on various small and medium-sized projects. My goal is to work in a team that develops innovative solutions and allows me to grow my skills in new technologies. I learn very quickly, value effective teamwork, and  am always focused on achieving results.
 
 ---
 
@@ -50,6 +50,9 @@ I am an energetic and motivated student at the Slovak University of Technology w
 - **SQL**: Experience with MySQL, SQLite and PostgreSQL, writing queries, joins, and optimizing data retrieval.
 - **NoSQL**: Used MongoDB, Cassandra for non-relational data storage in side projects.
 
+### Message Brokers
+- **RabbitMQ**,**ActiveMQ**,**Kafka**
+
 ### Testing
 - **JUnit**: Wrote unit tests for verifying application logic.
 - **Postman**: Tested REST APIs during development.
@@ -62,7 +65,8 @@ I am an energetic and motivated student at the Slovak University of Technology w
 - **JSON & XML**: Worked with data formats for API communication and configuration.
 - **RESTful APIs**: Designed and implemented RESTful services for various applications.
 - **Algorithms & Data Structures**: Understanding of core algorithms (sorting, searching) and data structures (linked lists, trees, hashmaps) for optimized problem-solving.
-- **Different Front end technologies**: HTML, CSS, JavaScript, 
+- **Different Front end technologies**: HTML, CSS, JavaScript,
+
 
 
 
@@ -187,7 +191,7 @@ I am an energetic and motivated student at the Slovak University of Technology w
   Gained valuable experience in **client interaction**, understanding their requirements, and delivering solutions that met or exceeded expectations.  
   Gained proficiency in managing **client deadlines**, addressing feedback, and iterating on projects to achieve the best possible outcome for the client.  
 
-- Java Full Stack Developer Certificate from HyperSkill by JetBrains.
+- Successfully completed a course, finishing 3 medium-sized projects, and received the Java Full Stack Developer certificate from JetBrains Academy.
 -  [Certificate](https://hyperskill.org/certificates/5fb13c3d-c36f-4792-8b33-5e62b7c6192e.pdf)
 
 
