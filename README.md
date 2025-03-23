@@ -51,7 +51,9 @@ I am an experienced Junior Developer with about  1 year of experience, specializ
 - **NoSQL**: Used MongoDB, Cassandra for non-relational data storage in side projects.
 
 ### Message Brokers
-- **RabbitMQ**,**ActiveMQ**,**Kafka**
+- **RabbitMQ**
+- **ActiveMQ**
+- **Kafka**
 
 ### Testing
 - **JUnit**: Wrote unit tests for verifying application logic.
