@@ -111,20 +111,20 @@ I am an experienced Junior Developer with about  1 year of experience, specializ
   **Technologies Used:** Java, SpringBoot, SpringSecurity JWT, Oauth2 ant etc.
 </br>
 </br>
-### 📂 Group of projects (Small games).</br>
-  https://github.com/ArsenLabovich/ProjectLudoProgramming1</br>
-  https://github.com/ArsenLabovich/ProjectTeleportsProgramming1</br>
-  https://github.com/ArsenLabovich/LudoGameProject *(public)*</br></br>
-
-  **Description:** All projects are small and shows only Basic Code. (projects for University)
-  
-  **Technologies Used:** Python
 
 ### 📂 Real-Time Chat ([https://github.com/ArsenLabovich/Real-Time-Messanger](https://github.com/ArsenLabovich/Real-Time-Messanger))</br>
 
   **Description:** A real-time chat application with user authentication, messaging, public and private chats, and notifications.
   
   **Technologies Used:** Java, Spring Boot, WebSocket, HTML, CSS, JavaScript, ActiveMQ, RESTful API.
+</br>
+</br>
+
+### 📂 B-PROG2 Tester  ([https://github.com/ArsenLabovich/UniversityCourseTester](https://github.com/ArsenLabovich/UniversityCourseTester))</br>
+
+  **Description:** Desktop application that is used to test projects during university B-PROG2 course.
+  
+  **Technologies Used:** Java, JFoenix, HTML, FXML, CSS, Mergely, Java Diff Utils, (distributed with help of JPackage (.deb)  and Launch4j (.exe) ).
 </br>
 </br>
 
@@ -136,8 +136,15 @@ I am an experienced Junior Developer with about  1 year of experience, specializ
 </br>
 </br>
 
-  
+### 📂 Group of projects (Small games).</br>
+  https://github.com/ArsenLabovich/ProjectLudoProgramming1</br>
+  https://github.com/ArsenLabovich/ProjectTeleportsProgramming1</br>
+  https://github.com/ArsenLabovich/LudoGameProject *(public)*</br></br>
 
+  **Description:** All projects are small and shows only Basic Code. (projects for University)
+  
+  **Technologies Used:** Python
+  
 ---
 
 ## 🎓 Education
